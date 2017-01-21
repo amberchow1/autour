@@ -20,5 +20,6 @@ Finally, we're going to head in and serve our app! Get to the folder, and then r
 
 ```
 cd autour
+npm install
 ionic start
 ```
